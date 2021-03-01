@@ -1,1 +1,52 @@
-<mxfile host="app.diagrams.net" modified="2021-03-01T17:24:13.199Z" agent="5.0 (Windows)" etag="s54DSiiNQJKPWfWVVZqK" version="14.4.3" type="github"><diagram id="hB8wsGbfEhb029owP6T0" name="Page-1">5Vnbcts2EP0azTgP0oBXSY+6Mc40F09kT9snDURCJGKSUEHIkvL1XfBOgnbkmo6blvJYxAFAAOfsLhbUwFhEp/cc74NPzCPhQEfeaWAsB7qumbo+kH/IO2fIeKJlgM+pl0GoAtb0O8l7FuiBeiTJsQwSjIWC7pugy+KYuKKBYc7Zsdlsx0KvAeyxTxRg7eJQRX+nnggydGKhCr8m1A+KkTWU10S4aJwDSYA9dqxBxmpgLDhjIruLTgsSSvKavDiP1JYT4yQWl3RIjsndpy8fNOsb2pFpfOOcdTbUjewxDzg85CueCYHde8IBvWEJSRLK4nwF4lzQwtkh9oh8MhoY82NABVnvsStrj2AIgAUiCqGkwW0iOLsv6TMA2dEwXLCQ8fRphuMs4Cpb1moWCwQX1OTTJFyQ06MEaCWtYI+ERUTwMzQ5NU0qt0SjUOpY6WqPcyyoaWqaOYhzW/LLR1d0w03O+DPYN3SF/WucBC4WfRBeo9FOr0uk2FnyI3EWixqeXf0IYdpaQwkb2YoSumarSmiG9kpKaFNFibv4PmZHMH0kH62jJYM4pKMY/FVH5EQTUVZl2JmINMKAUD3Lh1DuHz7HHiUNYVa2/PQjzNRouYimusgYdbmI/mououiyZBGmUpYFWChnoYxULbZxss/2gh09SdLne0ZjQfjqAYhICpaLeCwV8cDtSnkelSJmMYwwD/GWhBAbqZCh0Vi6RD4cKiT5FPaOj60GWyYEi2oNZiH1ZYVgUnqcl8rntHwSIW0yWWZT3sslRidf7rajKHExGaW99pwmZOSl3GzcjJmSmhcZxdgcN41CddZJl69q05FpvpJVqN66xhwH0j9v398OdDuEWcy3sHzbl3e3FHY0oeJXs/Xw6+rmXc/+6o2n23TXagfXHbFdtzMM9+G9ptUQyhyPFaU0vcN77ddy3mKwmk5Xh4TwGEfknapGiRTAWhDw2AKGKWyrpo8Kpv0Dwco0oymM2Y8wutl0IF31oJ+si/ZCXaSz/fKyKP6CrLfWRc0Hr25wkhwZ9y73l6LHawlUl0GRzHEmvSXsbYEsS01HfrJAlkIg8eC8mBcZFwHzWYzDVYXOm3tJ1eYjk7t/Suw3IsQ5P/zig2BN2oEufv4j758W/qwXlqdG6ZyXspnK6T1NP6yGHbhLnlp2HsAE5j4RTzU0ugXlJMSCPjRn0r86puI+1WG2JVuRStEofQFQp7s7SfthbpdmhXMYzU8Fb2z78oIm6WCzIjmVIimZaj6fZSCEfMMxSw8YjuvFxohCWrejYEp85MKIuuNhgeFL4olsxKL9QdDYHwriBjGM7wOnzhhYca5TFjZZE8KHX2fLoaZPRvvYVyz00jD81EG+fVDJM+cegkL7iNK1l0460tEC7N/qbMXqisi7b9ic/ddBvuuZhzQmw2JuIDDS5JqsqkE7vsO09m3Mow8FtIR5o7v16it8ffjsfKl1q7Xq6Pj4jnJ51wII5XJGIQMPgc5JmiDIxXVtQReOMYT1fGbw7zfCt4Qzmd3fcALxMQBbAV9MPfCZa1CIbJLbihJgpqIZHOoGnxt1AvsllX60tKrSbRrbZQbcvasycIJdmJ4/A+p5kOX+0A0R6u9d2MRqHurMDjeaduys2qsd9PXxC3MfaXL/2dTHKN58vVnqY6hnuTTdfO6R+wkZft2jtl28R387edQj3f8h54kwZDMUD3eQXw4DHEJEJSQe7jgBw3RkQuggY7pBur2B/WKzDWGumyMVbrCpWl+cCJUR+N+QCJmW0bTBjuOr3ZEJ2c9PhKBY/U6V1tV+7TNWfwM=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-01T17:26:15.008Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="xDw-LyAcVYHr2SZpGGSQ" version="14.4.3" type="github">
+  <diagram id="hB8wsGbfEhb029owP6T0" name="Page-1">
+    <mxGraphModel dx="1422" dy="781" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="swsUMOI15j0fe9nPFy2o-23" value="Attacker Posession" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#FFCCCC;strokeColor=#CC0000;" parent="1" vertex="1">
+          <mxGeometry x="10" y="300" width="670" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="swsUMOI15j0fe9nPFy2o-32" value="Hashcat" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#666666;strokeWidth=3;fillColor=#f5f5f5;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="461" y="606" width="216" height="131" as="geometry" />
+        </mxCell>
+        <mxCell id="swsUMOI15j0fe9nPFy2o-19" value="Unknown / Does not exist / not yet found" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#00CCCC;gradientColor=#E6E6E6;" parent="1" vertex="1">
+          <mxGeometry x="930" y="310" width="700" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="swsUMOI15j0fe9nPFy2o-3" value="Domain Controler" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.domain_controller" parent="1" vertex="1">
+          <mxGeometry x="747" y="36" width="86" height="119.44" as="geometry" />
+        </mxCell>
+        <mxCell id="swsUMOI15j0fe9nPFy2o-9" value="Sarahs TGT&lt;br&gt;Ticket&lt;br&gt;(AS-REP)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;strokeWidth=3;" parent="1" vertex="1">
+          <mxGeometry x="945" y="477" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="swsUMOI15j0fe9nPFy2o-20" value="(username)&lt;br&gt;&lt;b&gt;Steven&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#CC0000;strokeWidth=4;" parent="1" vertex="1">
+          <mxGeometry x="24" y="326" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="swsUMOI15j0fe9nPFy2o-21" value="(username)&lt;br&gt;&lt;b&gt;Sarah&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#CC0000;strokeWidth=4;" parent="1" vertex="1">
+          <mxGeometry x="945" y="405" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="swsUMOI15j0fe9nPFy2o-22" value="(Password)&lt;br&gt;&lt;b&gt;StevenPassword&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=4;strokeColor=#FF8000;" parent="1" vertex="1">
+          <mxGeometry x="945" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="swsUMOI15j0fe9nPFy2o-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" source="swsUMOI15j0fe9nPFy2o-24" target="swsUMOI15j0fe9nPFy2o-23" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="swsUMOI15j0fe9nPFy2o-24" value="Attacker" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/computing-technology/74/Hacker_computer-RAD-128.png;rounded=0;strokeColor=#CC0000;strokeWidth=3;fillColor=#FFCCCC;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="30" y="36" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="swsUMOI15j0fe9nPFy2o-26" value="&lt;p style=&quot;line-height: 130%&quot;&gt;&lt;/p&gt;&lt;div&gt;DC USER INFO&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;light.local/sarah:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- No Kerberos Preauthentication&lt;br&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="857" y="46" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="swsUMOI15j0fe9nPFy2o-27" value="(Password)&lt;br&gt;&lt;b&gt;SarahPassword&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=4;strokeColor=#FF8000;" parent="1" vertex="1">
+          <mxGeometry x="945" y="331" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="swsUMOI15j0fe9nPFy2o-30" value="Steve TGT&lt;br&gt;Ticket&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;strokeWidth=3;" parent="1" vertex="1">
+          <mxGeometry x="945" y="623" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="swsUMOI15j0fe9nPFy2o-31" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/materia-flat-halloween-free/24/039_026_cat_black_witch_halloween-128.png;rounded=0;strokeColor=#000000;strokeWidth=3;fillColor=#FFCCCC;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="453" y="605" width="68" height="68" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
